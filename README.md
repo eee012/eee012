@@ -10,4 +10,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eee012&show_icons=true&locale=en&layout=compact" alt="eee012" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eee012&show_icons=true&locale=en" alt="eee012" /></p>
